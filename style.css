@@ -33,10 +33,26 @@ main {
 
 h2.skills-list-header {
   border-bottom: 1px solid black;
+  margin-bottom: 2rem;
 }
 
 .skills-list-header {
   text-align: center;
+}
+
+.edu-work-inner {
+  display: flex;
+  justify-content: center;
+  column-gap: 2rem;
+  row-gap: 2rem;
+}
+
+.work-exp {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 2rem;
+  margin-top: 2rem;
 }
 
 #latin {
