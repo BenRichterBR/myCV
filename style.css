@@ -88,6 +88,10 @@ h2.skills-list-header {
   height: 30rem;
 }
 
+.edu-card-body {
+  padding: 1rem;
+}
+
 .card-img-top {
   padding: 3px;
   background-color: lightgray;
