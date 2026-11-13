@@ -78,6 +78,10 @@ h2.skills-list-header {
   padding-top: 2rem;
 }
 
+#info-div {
+  align-self: center;
+}
+
 .projects > .row {
   column-gap: 2rem;
 }
